@@ -1,5 +1,6 @@
 /** @type {import('vitepress').UserConfig} */
 const config = {
+	base: 'https://crazy252.github.io/typo3-viewhelper-documentation/',
 	lang: 'en-US',
  	title: 'TYPO3 ViewHelpers',
  	description: 'TYPO3 ViewHelpers Documentation for fluid, flux, vhs, news and many more.',
