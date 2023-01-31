@@ -6,8 +6,8 @@ This need's to be before `<vite:asset />`.
 
 ### Attributes
 
-| Attribute | Type | Default | Required | Description |
-|:---------:|:----:|:-------:|:--------:|:-----------:|
+| Name | Type | Default | Required | Description |
+|:----:|:----:|:-------:|:--------:|:-----------:|
 | extension | string | `null` | Yes | Name of the extension folder |
 
 ### Examples

@@ -4,8 +4,8 @@ Use this ViewHelper to add PWA (Progressive Web App) support to your site. This 
 
 ### Attributes
 
-| Attribute | Type | Default | Required | Description |
-|:---------:|:----:|:-------:|:--------:|:-----------:|
+| Name | Type | Default | Required | Description |
+|:----:|:----:|:-------:|:--------:|:-----------:|
 | extension | string | `null` | Yes | Name of the extension folder |
 | config | string | vite.config.js | False | Name of the vite config |
 

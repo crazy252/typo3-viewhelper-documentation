@@ -4,8 +4,8 @@ Use this ViewHelper to add an file to your site.
 
 ### Attributes
 
-| Attribute | Type | Default | Required | Description |
-|:---------:|:----:|:-------:|:--------:|:-----------:|
+| Name | Type | Default | Required | Description |
+|:----:|:----:|:-------:|:--------:|:-----------:|
 | extension | string | `null` | Yes | Name of the extension folder |
 | entry | string | `null` | Yes | Name of the file |
 
