@@ -32,7 +32,21 @@ const config = {
 					collapsible: true,
 					collapsed: true,
 					items: [
-						{text: 'Test', link: '/extensions/fluidtypo3-flux/test'},
+						{text: 'flux:content.get', link: '/extensions/fluidtypo3-flux/content-get'},
+						{text: 'flux:content.render', link: '/extensions/fluidtypo3-flux/content-render'},
+						{text: 'flux:form.object.columnPosition', link: '/extensions/fluidtypo3-flux/form-object-columnposition'},
+						{text: 'flux:form.option.group', link: '/extensions/fluidtypo3-flux/form-option-group'},
+						{text: 'flux:form.option.icon', link: '/extensions/fluidtypo3-flux/form-option-icon'},
+						{text: 'flux:form.option.sorting', link: '/extensions/fluidtypo3-flux/form-option-sorting'},
+						{text: 'flux:form.option.static', link: '/extensions/fluidtypo3-flux/form-option-static'},
+						{text: 'flux:form.container', link: '/extensions/fluidtypo3-flux/form-container'},
+						{text: 'flux:form.content', link: '/extensions/fluidtypo3-flux/form-content'},
+						{text: 'flux:form.data', link: '/extensions/fluidtypo3-flux/form-data'},
+						{text: 'flux:form.option', link: '/extensions/fluidtypo3-flux/form-option'},
+						{text: 'flux:form.render', link: '/extensions/fluidtypo3-flux/form-render'},
+						{text: 'flux:form.section', link: '/extensions/fluidtypo3-flux/form-section'},
+						{text: 'flux:form.sheet', link: '/extensions/fluidtypo3-flux/form-sheet'},
+						{text: 'flux:form.variable', link: '/extensions/fluidtypo3-flux/form-variable'},
 					]
 				},
 				{
